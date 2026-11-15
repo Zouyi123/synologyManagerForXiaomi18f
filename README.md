@@ -1,0 +1,2 @@
+# synologyManagerForXiaomi18f
+一个专为小米中折叠开发的群晖管理软件。
